@@ -1,0 +1,37 @@
+XC                    Admin
+
+Login,
+View All Users,
+View All Datasets,
+View All Datasets By Block chain,
+View All E-Commerce Reputation Results,
+View All E-Commerce Reputation Rating Results.
+
+
+User
+
+Register and Login,
+View Your Profile,
+Upload Datasets,
+Find E Commerce Reputation By Hash code,
+Find E Commerce Reputation.
+
+
+
+
+Members
+
+Fid,	
+TransactionNo,	
+PDate,	
+ProductNo,	
+ProductName,	
+Price,	
+Quantity,	
+CustomerNo,	
+Discount_Token_No,	
+Country,	
+Rating,          
+PRep,
+Hash code.
+
