@@ -1,55 +1,83 @@
-# A Blockchain-Based E-Commerce Reputation System
+# 🛒 A Blockchain-Based E-Commerce Reputation System
 
 ## 📌 Project Overview
-This academic project presents a **Blockchain-based E-Commerce Reputation System** designed to enhance **trust, transparency, and security** in online marketplaces. Traditional e-commerce platforms rely on centralized reputation systems, which are vulnerable to manipulation, fake reviews, and data tampering.  
-
-By leveraging **blockchain technology**, this system ensures that user feedback and reputation data are **immutable, verifiable, and tamper-proof**, thereby increasing reliability for buyers and sellers.
+This project implements a **Blockchain-Based E-Commerce Reputation System** to improve trust and transparency in online shopping platforms.  
+Unlike traditional centralized systems, this application stores reputation and feedback data using **blockchain concepts**, making reviews **secure, immutable, and tamper-proof**.
 
 ---
 
 ## 🎯 Objectives
-- To eliminate fake and manipulated reviews in e-commerce platforms
-- To provide a decentralized and transparent reputation mechanism
-- To ensure data integrity using blockchain
-- To improve trust between buyers and sellers
+- Eliminate fake and manipulated reviews  
+- Maintain transparent reputation records  
+- Improve trust between buyers and sellers  
+- Ensure data integrity using blockchain principles  
+- Provide a secure feedback system  
+
+---
+
+## 🧠 Problem Statement
+Traditional e-commerce platforms use centralized databases where reviews and ratings can be altered or deleted.  
+This leads to:
+- Fake reviews  
+- Reduced customer trust  
+- Data manipulation risks  
+
+This project solves these issues by using a **blockchain-based reputation mechanism**.
 
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java (JSP / Servlets)
-- **Database:** MySQL
-- **Blockchain Concept:** Distributed ledger for reputation storage
-- **Server:** Apache Tomcat
-- **Development Tool:** Eclipse IDE
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### Backend
+- Java (JSP & Servlets)
+
+### Database
+- MySQL  
+
+### Server & Tools
+- Apache Tomcat  
+- Eclipse IDE  
+
+### Concept
+- Blockchain (Distributed Ledger Concept)
 
 ---
 
-## ⚙️ System Modules
-- **User Registration & Authentication**
-- **Product Management**
-- **Transaction Management**
-- **Reputation & Feedback System**
-- **Blockchain-based Verification**
-- **Admin Panel**
+## 🧩 Project Modules
+- User Registration & Login  
+- Product Management  
+- Transaction Handling  
+- Feedback & Rating System  
+- Blockchain-Based Reputation Storage  
+- Admin Module  
 
 ---
 
-## 🔐 Key Features
-- Decentralized reputation management
-- Tamper-proof feedback records
-- Transparent transaction validation
-- Secure user authentication
-- Reduced fake reviews and fraud
+## ✨ Key Features
+- Secure user authentication  
+- Tamper-proof reputation data  
+- Transparent review system  
+- Prevention of fake reviews  
+- Improved buyer–seller trust  
 
 ---
 
-## 🧩 System Architecture
-The system uses blockchain principles to store reputation scores and feedback records in a distributed manner, ensuring immutability and traceability of data.
+## 🏗️ System Architecture
+Reputation data is stored in a **block structure**, where each block is linked to the previous one.  
+This ensures:
+- Data immutability  
+- Transparency  
+- Traceability  
 
 ---
 
 ## 🚀 How to Run the Project
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Blockchain-ECommerce-Reputation-System.git
+   git clone https://github.com/GayathriKapu/AcademicProject.git
